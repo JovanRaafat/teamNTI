@@ -1,3 +1,18 @@
-.body{background-color: green;
-      background-image: url(NTI_1.png);}
-.para{color: #ffffff;} 
+.body{background-color: rgb(94, 97, 94);
+    background-repeat: no-repeat;}
+.para{color: #000000;
+width: 200px;
+height: 200px;
+background-color: bisque;
+padding: 10px;
+margin: 30px auto;
+border: 5px solid;
+box-sizing: border-box;
+text-align: center;
+display: 
+} 
+/**/
+h1{
+    font-family:  ;
+}
+body{}
