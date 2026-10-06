@@ -1,0 +1,45 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+ul {
+	list-style-type: none;
+	text-align: right;
+}
+li {
+	margin: 0px 5px;
+	display: inline-block;
+}
+.nav {
+	padding: 1em 7em;
+	color: aliceblue;
+	background-color: black;
+}
+nav div {
+	display: inline-block;
+}
+.list {
+	width: 85%;
+}
+a {
+	font-size: 1.5em;
+	text-decoration: none;
+	color: aliceblue;
+}
+main {
+	height: 100vh;
+	background-image: url(img/p1.jpg);
+	background-size: cover;
+}
+.header {
+	margin: 40% 25% 0px;
+	display: inline-block;
+	width: 50%;
+	text-align: center;
+	color: rgb(119, 255, 0);
+	font-size: 1.2em;
+}
+section {
+	width: 100%;
+}
