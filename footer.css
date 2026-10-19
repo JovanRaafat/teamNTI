@@ -9,7 +9,7 @@ footer{
     align-items: center;
     padding: 15px 40px;
     background-color: #0f222b;
-    color: white;
+    /* color: white; */
     align-items: flex-start;
 }
 h6{
@@ -23,11 +23,12 @@ p{
 }
 .left {
     /* margin-left: auto; */
-    /* border: 2px solid red; */
+    border: 2px solid red;
     width: max-content;
     flex-direction: column;
     gap: 10px;
     display: flex;
+    padding-right: 12px;
 
 }
 .brand {
@@ -58,7 +59,7 @@ p{
     /* width: 100px; */
     }
 .center a{
-    color: white;
+    /* color: white; */
     text-decoration: none;
 }
 .right{
